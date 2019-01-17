@@ -7,7 +7,7 @@ module.exports = {
 		host:"localhost",
 		port:8332,
 		username:"ZManev",
-		password:"ZManev@2203"
+		password:""
 	},
 
 	// optional: enter your api access key from ipstack.com below
